@@ -1,0 +1,4 @@
+Name: extrawhitespace
+Description: Adds extra whitespace after Parentheses
+Binding: extrawhitespace
+Interactive: false

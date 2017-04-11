@@ -1,0 +1,14 @@
+Package: extrawhitespace
+Type: Package
+Title: Extra white space
+Version: 0.1.0
+Author: Erik Schutte
+Maintainer: ErikSchutte <schutte.erik@hotmail.com>
+Description: Adds whitespace after parentheses.
+Depends: R (>= 2.10)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports:
+    rstudioapi
