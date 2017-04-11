@@ -5,5 +5,5 @@
 #' @importFrom rstudioapi insertText
 #' @export
 extrawhitespace <- function() {
-  rstudioapi::insertText(" ")
+  rstudioapi::insertText("(  )")
 }
